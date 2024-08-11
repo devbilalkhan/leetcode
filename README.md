@@ -24,6 +24,13 @@ This folder contains solutions to various LeetCode problems. Each solution is im
 - **Description:** This solution checks if there are any duplicates in the list. It uses a set to store unique items and checks if an item is already in the set to determine if a duplicate exists.
 - **LeetCode Problem:** [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
+### 4. Product of Array Except Self
+
+- **File:** `4_product_except_self.py`
+- **Description:** This solution calculates the product of all elements in the array except the current element. It uses prefix and suffix products to achieve this in O(n) time complexity without using division.
+- **LeetCode Problem:** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
+
+
 ## How to Run
 
 To run any of the solutions, navigate to the folder and execute the Python file. For example:
