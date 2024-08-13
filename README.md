@@ -30,6 +30,13 @@ This folder contains solutions to various LeetCode problems. Each solution is im
 - **Description:** This solution calculates the product of all elements in the array except the current element. It uses prefix and suffix products to achieve this in O(n) time complexity without using division.
 - **LeetCode Problem:** [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
+### 5. Maximum Subarray
+
+- **File:** `5_maximum_subarray.py`
+- **Description:** This solution finds the subarray with the largest sum within an integer array `nums` and returns its sum. It uses Kadane's Algorithm to achieve this in O(n) time complexity.
+- **LeetCode Problem:** [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+
+Given an integer array `nums`, find the subarray with the largest sum, and return its sum.
 
 ## How to Run
 
